@@ -1,0 +1,1742 @@
+2014-02-27 16:47:49 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 16:47:56 Error: Fatal Error (1): Call to undefined method BooksController::paginte() in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 17]
+2014-02-27 16:47:56 Error: [FatalErrorException] Call to undefined method BooksController::paginte()
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\wamp\www\uai...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\wamp\www\uai...', 17, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\wamp\www\uai...', 17, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 16:48:44 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-02-27 16:49:16 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-02-27 16:55:57 Error: Fatal Error (1): Call to undefined method BooksController::paginte() in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 17]
+2014-02-27 16:55:57 Error: [FatalErrorException] Call to undefined method BooksController::paginte()
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\wamp\www\uai...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\wamp\www\uai...', 17, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\wamp\www\uai...', 17, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 16:56:00 Error: Fatal Error (1): Call to undefined method BooksController::paginte() in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 17]
+2014-02-27 16:56:00 Error: [FatalErrorException] Call to undefined method BooksController::paginte()
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\wamp\www\uai...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\wamp\www\uai...', 17, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\wamp\www\uai...', 17, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 16:56:03 Error: Fatal Error (1): Call to undefined method BooksController::paginte() in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 17]
+2014-02-27 16:56:03 Error: [FatalErrorException] Call to undefined method BooksController::paginte()
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\wamp\www\uai...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\wamp\www\uai...', 17, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\wamp\www\uai...', 17, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 16:58:51 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-02-27 17:01:11 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:03:29 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:03:32 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:03:33 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:05:54 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-02-27 17:05:57 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-02-27 17:05:59 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-02-27 17:06:13 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:10:16 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:10:18 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:10:19 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:12:33 Error: [MissingHelperException] Helper class JonHelper could not be found.
+Exception Attributes: array (
+  'class' => 'JonHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Jon', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-02-27 17:12:52 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:15:22 Error: Fatal Error (1): Call to a member function set() on a non-object in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 16]
+2014-02-27 17:15:22 Error: [FatalErrorException] Call to a member function set() on a non-object
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\uai...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\uai...', 16, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\uai...', 16, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 17:15:37 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/index.php%20?books=
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 17:15:44 Error: Fatal Error (1): Call to a member function set() on a non-object in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 16]
+2014-02-27 17:15:44 Error: [FatalErrorException] Call to a member function set() on a non-object
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\uai...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\uai...', 16, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\uai...', 16, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 17:16:56 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-02-27 17:17:01 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-02-27 17:17:59 Error: [MissingHelperException] Helper class XmlHelper could not be found.
+Exception Attributes: array (
+  'class' => 'XmlHelper',
+  'plugin' => false,
+)
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(882): HelperCollection->load('Xml', Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(464): View->loadHelpers()
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-02-27 17:18:18 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:18:44 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:20:08 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:20:12 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:21:39 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:22:36 Warning: Warning (2): SimpleXMLElement::__construct(): Entity: line 3: parser error : Extra content at the end of the document in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:22:36 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;response&gt;&lt;Books&gt;&lt;title&gt;The Silmarillion&lt;/title&gt;&lt;author&gt;J.R.R. Tolkien&lt;/author&gt;&lt; in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:22:36 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:22:36 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:22:49 Warning: Warning (2): SimpleXMLElement::__construct(): Entity: line 3: parser error : Extra content at the end of the document in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:22:49 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;response&gt;&lt;Books&gt;&lt;title&gt;The Silmarillion&lt;/title&gt;&lt;author&gt;J.R.R. Tolkien&lt;/author&gt;&lt; in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:22:49 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:22:49 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:26:17 Error: [XmlException] The key of input must be alphanumeric
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(4): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:26:26 Error: [XmlException] The key of input must be alphanumeric
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(4): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:28:24 Error: [XmlException] The key of input must be alphanumeric
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(4): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:30:13 Error: [XmlException] The key of input must be alphanumeric
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(1): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:30:43 Error: [XmlException] The key of input must be alphanumeric
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(1): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:30:47 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\Books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\Books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:30:51 Error: [XmlException] The key of input must be alphanumeric
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(1): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:31:59 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:32:06 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:32:07 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:32:34 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array, 'tags')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:35:48 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::toArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:36:18 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(11): Xml::toArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:36:20 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(11): Xml::toArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:36:50 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(10): Xml::toArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:36:56 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(10): Xml::toArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:37:45 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(10): Xml::toArray(Array, 'tags')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:37:48 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(10): Xml::toArray(Array, 'tags')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:37:52 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(10): Xml::toArray(Array, 'tags')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:37:53 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(10): Xml::toArray(Array, 'tags')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:39:47 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(8): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:40:21 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(8): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:41:06 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(8): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:41:23 Warning: Warning (2): SimpleXMLElement::__construct(): Entity: line 3: parser error : Extra content at the end of the document in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 8
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:41:23 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;Livros&gt;&lt;Books&gt;&lt;title&gt;The Silmarillion&lt;/title&gt;&lt;author&gt;J.R.R. Tolkien&lt;/author&gt;&lt;/B in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 8
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:41:23 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 8
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:41:23 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(8): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:41:49 Warning: Warning (2): SimpleXMLElement::__construct(): Entity: line 3: parser error : Extra content at the end of the document in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:41:49 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;Livros&gt;&lt;Books&gt;&lt;title&gt;The Silmarillion&lt;/title&gt;&lt;author&gt;J.R.R. Tolkien&lt;/author&gt;&lt;/B in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:41:49 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:41:49 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:42:13 Warning: Warning (2): SimpleXMLElement::__construct(): Entity: line 3: parser error : Extra content at the end of the document in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:13 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;Livros&gt;&lt;Books&gt;&lt;title&gt;The Silmarillion&lt;/title&gt;&lt;author&gt;J.R.R. Tolkien&lt;/author&gt;&lt;/B in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:13 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:13 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:42:29 Warning: Warning (2): SimpleXMLElement::__construct(): Entity: line 3: parser error : Extra content at the end of the document in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:29 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;Livros&gt;&lt;Books&gt;&lt;title&gt;The Silmarillion&lt;/title&gt;&lt;author&gt;J.R.R. Tolkien&lt;/author&gt;&lt;/B in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:29 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:29 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:42:33 Warning: Warning (2): SimpleXMLElement::__construct(): Entity: line 3: parser error : Extra content at the end of the document in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:33 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;Livros&gt;&lt;Books&gt;&lt;title&gt;The Silmarillion&lt;/title&gt;&lt;author&gt;J.R.R. Tolkien&lt;/author&gt;&lt;/B in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:33 Warning: Warning (2): SimpleXMLElement::__construct() [<a href='http://php.net/simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php, line 218]
+Trace:
+SimpleXMLElement::__construct() - [internal], line ??
+Xml::fromArray() - CORE\Cake\Utility\Xml.php, line 218
+include - APP\View\Books\xml\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+XmlView::render() - CORE\Cake\View\XmlView.php, line 92
+Controller::render() - CORE\Cake\Controller\Controller.php, line 948
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 17:42:33 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:42:42 Error: [Exception] String could not be parsed as XML
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Xml.php(218): SimpleXMLElement->__construct('<?xml version="...')
+#1 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 17:44:58 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:45:08 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:45:20 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(2): Xml::fromArray(Array, 'tags')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:51:34 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\Books\txt\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\Books\\txt\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books.txt
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 17:56:29 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:57:39 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:57:55 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:59:20 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 17:59:31 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 18:00:29 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 18:01:19 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 18:02:07 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(116): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(89): XmlView->_serialize('')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-02-27 18:02:19 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(116): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(89): XmlView->_serialize('Books')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-02-27 18:05:58 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 18:08:51 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 18:10:56 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 18:11:48 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 18:13:51 Error: [XmlException] Invalid input.
+Request URL: /uai_ti/cake2.3/books.xml
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\View\Books\xml\index.ctp(3): Xml::fromArray(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(945): include('C:\wamp\www\uai...')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(907): View->_evaluate('C:\wamp\www\uai...', Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\uai...')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\XmlView.php(92): View->render(NULL, false)
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): XmlView->render(NULL, NULL)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 18:15:13 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books.xml/2
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 18:22:49 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\Books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\Books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 18:23:07 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\Books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\Books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books/
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 18:23:31 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\Books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\Books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books/
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 18:23:40 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\Books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\Books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books/
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 18:24:27 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\Books\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\Books\\index.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-02-27 18:28:32 Error: [MissingActionException] Action BooksController::ver() could not be found.
+Exception Attributes: array (
+  'controller' => 'BooksController',
+  'action' => 'ver',
+)
+Request URL: /uai_ti/cake2.3/books/2
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-02-27 18:40:09 Error: Fatal Error (1): Class 'Sanitize' not found in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 29]
+2014-02-27 18:40:09 Error: [FatalErrorException] Class 'Sanitize' not found
+Request URL: /uai_ti/cake2.3/books/2
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Class 'Sanitize...', 'C:\wamp\www\uai...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Sanitize...', 'C:\wamp\www\uai...', 29, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Sanitize...', 'C:\wamp\www\uai...', 29, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 18:41:34 Error: Fatal Error (1): Class 'Sanitize' not found in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 29]
+2014-02-27 18:41:34 Error: [FatalErrorException] Class 'Sanitize' not found
+Request URL: /uai_ti/cake2.3/books/2
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Class 'Sanitize...', 'C:\wamp\www\uai...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Sanitize...', 'C:\wamp\www\uai...', 29, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Sanitize...', 'C:\wamp\www\uai...', 29, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 19:03:34 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books/tille:teste
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 19:03:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books/title:teste
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 19:04:01 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books/title
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 19:34:32 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books/O+Velho
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 19:34:45 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books/O+Velho
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 19:34:48 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/books/O+Velho
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-27 19:53:55 Error: Fatal Error (64): Cannot redeclare class Book in [C:\wamp\www\uai_ti\cake2.3\app\Model\Books.php, line 6]
+2014-02-27 19:53:55 Error: [InternalErrorException] Internal Server Error
+Request URL: /uai_ti/cake2.3/books/4
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\uai...', 6)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\uai...', 6, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\uai...', 6, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 19:54:34 Error: Fatal Error (64): Cannot redeclare class Book in [C:\wamp\www\uai_ti\cake2.3\app\Model\Books.php, line 5]
+2014-02-27 19:54:34 Error: [InternalErrorException] Internal Server Error
+Request URL: /uai_ti/cake2.3/books/4
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\uai...', 5)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\uai...', 5, Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\uai...', 5, Array)
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-02-27 19:56:03 Warning: Warning (2): include(C:\wamp\www\uai_ti\cake2.3\app\Model\Books.php) [<a href='http://php.net/function.include'>function.include</a>]: failed to open stream: No such file or directory in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php, line 547]
+Trace:
+App::load() - CORE\Cake\Core\App.php, line 547
+App::load() - CORE\Cake\Core\App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 145
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 734
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 367
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 405
+BooksController::ver() - APP\Controller\BooksController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:56:03 Warning: Warning (2): include() [<a href='http://php.net/function.include'>function.include</a>]: Failed opening 'C:\wamp\www\uai_ti\cake2.3\app\Model\Books.php' for inclusion (include_path='C:\wamp\www\uai_ti\cake2.3\lib;.;C:\php\pear') in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php, line 547]
+Trace:
+App::load() - CORE\Cake\Core\App.php, line 547
+App::load() - CORE\Cake\Core\App.php, line 547
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 145
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 734
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 367
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 405
+BooksController::ver() - APP\Controller\BooksController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:56:03 Warning: Warning (2): include(C:\wamp\www\uai_ti\cake2.3\app\Model\Books.php) [<a href='http://php.net/function.include'>function.include</a>]: failed to open stream: No such file or directory in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php, line 547]
+Trace:
+App::load() - CORE\Cake\Core\App.php, line 547
+App::load() - CORE\Cake\Core\App.php, line 547
+spl_autoload_call - [internal], line ??
+interface_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 145
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 734
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 367
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 405
+BooksController::ver() - APP\Controller\BooksController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:56:03 Warning: Warning (2): include() [<a href='http://php.net/function.include'>function.include</a>]: Failed opening 'C:\wamp\www\uai_ti\cake2.3\app\Model\Books.php' for inclusion (include_path='C:\wamp\www\uai_ti\cake2.3\lib;.;C:\php\pear') in [C:\wamp\www\uai_ti\cake2.3\lib\Cake\Core\App.php, line 547]
+Trace:
+App::load() - CORE\Cake\Core\App.php, line 547
+App::load() - CORE\Cake\Core\App.php, line 547
+spl_autoload_call - [internal], line ??
+interface_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 145
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 734
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 367
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 405
+BooksController::ver() - APP\Controller\BooksController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:00:06 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(93): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(70): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(263): Sanitize::escape('budapeste', 'default')
+#3 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(23): Sanitize::clean('budapeste')
+#4 [internal function]: BooksController->ver()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 20:00:40 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(93): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(70): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(263): Sanitize::escape('budapeste', 'default')
+#3 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(23): Sanitize::clean('budapeste')
+#4 [internal function]: BooksController->ver()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 20:01:25 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(93): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(70): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(263): Sanitize::escape('budapeste', 'default')
+#3 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(23): Sanitize::clean('budapeste')
+#4 [internal function]: BooksController->ver()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 20:01:27 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(93): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(70): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(263): Sanitize::escape('budapeste', 'default')
+#3 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(23): Sanitize::clean('budapeste')
+#4 [internal function]: BooksController->ver()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 20:02:20 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(93): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(70): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(263): Sanitize::escape('budapeste', 'default')
+#3 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(23): Sanitize::clean('budapeste')
+#4 [internal function]: BooksController->ver()
+#5 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-02-27 20:02:40 Error: [MissingDatasourceConfigException] The datasource configuration "uaiti" was not found in database.php
+Exception Attributes: array (
+  'config' => 'uaiti',
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(93): ConnectionManager::_getConnectionObject('uaiti')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(3221): ConnectionManager::getDataSource('uaiti')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(1107): Model->setDataSource('uaiti')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(3243): Model->setSource('books')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(2696): Model->getDataSource()
+#5 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(31): Model->find('all', Array)
+#6 [internal function]: BooksController->ver()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2014-02-27 20:03:06 Error: [MissingDatasourceConfigException] The datasource configuration "uaiti" was not found in database.php
+Exception Attributes: array (
+  'config' => 'uaiti',
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(93): ConnectionManager::_getConnectionObject('uaiti')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(3221): ConnectionManager::getDataSource('uaiti')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(1107): Model->setDataSource('uaiti')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(3243): Model->setSource('books')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(2696): Model->getDataSource()
+#5 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(31): Model->find('all', Array)
+#6 [internal function]: BooksController->ver()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2014-02-27 20:04:25 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1049] Unknown database \'default\'',
+  'enabled' => true,
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(107): DboSource->__construct(Array)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(70): ConnectionManager::getDataSource('default')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Utility\Sanitize.php(263): Sanitize::escape('budapeste', 'default')
+#4 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(23): Sanitize::clean('budapeste')
+#5 [internal function]: BooksController->ver()
+#6 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-02-27 20:04:41 Error: [MissingDatasourceConfigException] The datasource configuration "uaiti" was not found in database.php
+Exception Attributes: array (
+  'config' => 'uaiti',
+)
+Request URL: /uai_ti/cake2.3/books/budapeste/Chico+Buarque
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\ConnectionManager.php(93): ConnectionManager::_getConnectionObject('uaiti')
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(3221): ConnectionManager::getDataSource('uaiti')
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(1107): Model->setDataSource('uaiti')
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(3243): Model->setSource('books')
+#4 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Model\Model.php(2696): Model->getDataSource()
+#5 C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php(31): Model->find('all', Array)
+#6 [internal function]: BooksController->ver()
+#7 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#8 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2014-02-27 20:08:36 Error: [MissingControllerException] Controller class OlaController could not be found.
+Exception Attributes: array (
+  'class' => 'OlaController',
+  'plugin' => NULL,
+)
+Request URL: /uai_ti/cake2.3/ola/5
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-28 10:36:17 Error: [MissingViewException] View file "C:\wamp\www\uai_ti\cake2.3\app\View\Books\listar_books.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\wamp\\www\\uai_ti\\cake2.3\\app\\View\\Books\\listar_books.ctp',
+)
+Request URL: /uai_ti/cake2.3/books
+Stack Trace:
+#0 C:\wamp\www\uai_ti\cake2.3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 C:\wamp\www\uai_ti\cake2.3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\uai_ti\cake2.3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}

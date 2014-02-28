@@ -1,0 +1,1188 @@
+2014-02-27 17:29:11 Debug: Notice (8): Undefined variable: books in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 21]
+Trace:
+BooksController::index() - APP\Controller\BooksController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:48:01 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 30]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 30
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:48:01 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 32]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:48:01 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 45]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 45
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:48:04 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 31]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 31
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:48:04 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 32]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 32
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:48:56 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 25]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 25
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:48:56 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 26]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 26
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:00 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:00 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 26]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 26
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:00 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 38]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:23 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:23 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 26]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 26
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:23 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 38]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:27 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:27 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 26]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 26
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:27 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 38]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:33 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:39 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:39 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 38]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:49:43 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:50:51 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 25]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 25
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:50:51 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 26]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 26
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:51:20 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 25]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 25
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:51:20 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 26]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 26
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:51:29 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 25]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 25
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:51:29 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 26]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 26
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:51:56 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 25]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 25
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:51:56 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 26]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 26
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:53:30 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:53:30 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:53:30 Debug: Notice (8): Undefined index: Book in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 34]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 34
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:53:55 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:53:55 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:54:04 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:54:04 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:54:04 Debug: Notice (8): Undefined index: Book in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 34]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 34
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:54:34 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:54:34 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:54:46 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:54:46 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:54:46 Debug: Notice (8): Undefined index: Book in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 34]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 34
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:55:03 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:55:03 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:55:03 Debug: Notice (8): Undefined index: Book in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 34]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 34
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:55:39 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:55:39 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:55:53 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:55:53 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:56:03 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:56:03 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:37 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:37 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:50 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:50 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:50 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:50 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:50 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:50 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:50 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:57:50 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:58:36 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:58:36 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 19:58:42 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:00:06 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:00:40 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:01:25 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:01:27 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:02:20 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:02:40 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:02:59 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:03:06 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:03:37 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:04:00 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:04:25 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:04:41 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:04:55 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:05:12 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:05:24 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:05:33 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:05:40 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:11 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:13 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:13 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:19 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:19 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:43 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:43 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:53 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:53 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:55 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:06:55 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:08:33 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:08:33 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:09:13 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:09:13 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:09:52 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:09:56 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:09:56 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:10:00 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:10:00 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 35]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:10:04 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:10:04 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 35]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:13:05 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:13:05 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 35]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:13:09 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:13:22 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:13:26 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:14:30 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:14:33 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-27 20:14:33 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 10:33:34 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 10:33:34 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 10:33:39 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 10:33:45 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 10:33:45 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::ver() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 10:38:09 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 10:38:09 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 10:38:13 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:30:38 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:30:38 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:30:38 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 33]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:30:51 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:30:51 Debug: Notice (8): Undefined variable: aux in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 33]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:31:05 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:31:09 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:31:09 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:35:56 Debug: Notice (8): Undefined index: title in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:35:56 Debug: Notice (8): Undefined index: author in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 14:36:01 Debug: Notice (8): Undefined index: id in [C:\wamp\www\uai_ti\cake2.3\app\Controller\BooksController.php, line 22]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 22:01:25 Debug: Notice (8): Undefined index: title in [C:\wamp\www\teste_uaiti\app\Controller\BooksController.php, line 23]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2014-02-28 22:01:25 Debug: Notice (8): Undefined index: author in [C:\wamp\www\teste_uaiti\app\Controller\BooksController.php, line 24]
+Trace:
+BooksController::buscaBook() - APP\Controller\BooksController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
