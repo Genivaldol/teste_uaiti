@@ -1,6 +1,5 @@
 # User specific & automatically generated files #
 #################################################
-/app/Config/database.php
 /app/tmp
 /lib/Cake/Console/Templates/skel/tmp/
 /plugins
@@ -21,3 +20,5 @@ ehthumbs.db
 Thumbs.db
 /nbproject/private/
 !/app/tmp/
+!/plugins/
+!/vendors/

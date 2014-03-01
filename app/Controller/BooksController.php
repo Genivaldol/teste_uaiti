@@ -9,15 +9,20 @@ class BooksController extends AppController {
     public $uses = array('Books');
     public $components = array('RequestHandler');
     public $layout = 'json';
-
+    
+    /**
+     * @abstract Metodo lista os livros aceita url do servidor/books
+     */
     public function listarBooks() {
-        Configure::write('debug', 2);
         $this->Books->recursive = 0;
         $books = $this->Books->find("all", array("fields" => array('Books.title', 'Books.author')));
         $books = $this->compactArray($books, "Books");
         $this->set('books', $books);
     }
-
+    /**
+     * @abstract Metodo retorna livro(s), aceita url do tipo servidor/books/{id}, servidor/books/{title}, servidor/books/{title}/{author}
+     * onde id => chave primaria da tablea books, title=>titulo do livro, author=> autor do livro
+     */
     public function buscaBook() {
         $id = Sanitize::clean(trim($this->request->params['id']));
         $title = Sanitize::clean(trim($this->request->params['title']));
